@@ -1,4 +1,4 @@
-# bankhack
+### bankhack
 Simple bash script to simulate a wire transfer over SWIFT.
 
 ## Story
@@ -6,8 +6,6 @@ So one day I stumbled across https://github.com/dustinkirkland/hollywood and tho
 
 Sat down with an IDE and a terminal and went to work. 
 
-
-
-
-## Screencast
-https://asciinema.org/a/158790
+## Screenshot
+Click for Asciinema...
+<a href="https://asciinema.org/a/158790" target="_blank"><img src="https://asciinema.org/a/158790.png" /></a>
