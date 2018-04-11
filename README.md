@@ -9,6 +9,8 @@ I thought about how I would want it to look and work for a couple days and read 
 
 Then one day on while having lunch, I popped open an IDE and a terminal and went to work. I basically taught myself how to do this; wrote a working version; refactored to clean up the code and make it display better, and commented it like I see the pros do. This is my first written from scratch block of code, ever. And I did it all in just under an hour and a half. 
 
+Fuck making a dumb "Hello World"... this was more fun.
+
 ## Screenshot
 Click for Asciinema...
 <a href="https://asciinema.org/a/158790" target="_blank"><img src="https://asciinema.org/a/158790.png" /></a>
