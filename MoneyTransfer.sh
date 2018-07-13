@@ -12,7 +12,7 @@
 
 echo "Connecting to Swift Network at 149.134.177.224........."
 sleep 2s
-curl -vv swift.com/
+curl -vv https://swift.com/
 
 sleep 1.5s
 
